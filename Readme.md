@@ -3,7 +3,7 @@
 <p><em> Senior Software Engineer at <a href="http://https://innowi.com/">Innowi Inc</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/salmanzafar949?label=Follow)
+![Twitter Follow](https://img.shields.io/twitter/follow/salmanzafar949?style=social)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-salman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emsalmanzafar/)](https://www.linkedin.com/in/emsalmanzafar/)
 ![GitHub followers](https://img.shields.io/github/followers/salmanzafar949?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=salmanzafar949)
