@@ -13,7 +13,7 @@
 ```javascript
 const salman = {
     pronouns: "He" | "Him",
-    code: ["php", "Python", "Javascript"],
+    code: ["php", "python", "javascript"],
     askMeAbout: ["web dev", "tech", "app dev", "database", "open source", "programming", "Restful Api"],
     technologies: {
         frontEnd: {
@@ -25,7 +25,7 @@ const salman = {
             python: ["Django"],
         },
         devOps: ["AWS", "Docker🐳", "Nginx", "Apache"],
-        databases: ["MySql", "sqlite", "mongo", "influxdb", "Graphql"],
+        databases: ["MySql", "sqlite", "mongodb", "influxdb", "Graphql"],
         os: ["Linux", "Windows"],
         others: ["Git", "Jira", "Trello", "Space"],
         misc: ["Firebase", "Socket.IO", "selenium", "MQTT", "Package Development"],
