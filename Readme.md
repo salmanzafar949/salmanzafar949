@@ -13,22 +13,21 @@
 ```javascript
 const salman = {
     pronouns: "He" | "Him",
-    code: ["php", "Javascript", "Python"],
+    code: ["php", "Python", "Javascript"],
     askMeAbout: ["web dev", "tech", "app dev", "database", "open source", "programming", "Restful Api"],
     technologies: {
         frontEnd: {
-            js: ["Vue", "React", "Svelte"],
-            css: ["bootstrap"]
+            js: ["React", "Vue"],
+            css: ["bootstrap", "tailwind"]
         },
         backEnd: {
             php: ["Laravel"],
-            python: ["flask", "Django"],
-            js: ["node", "express"],
+            python: ["Django"],
         },
         devOps: ["AWS", "Docker🐳", "Nginx", "Apache"],
-        databases: ["MySql", "sqlite", "mongo", "influx", "Graphql"],
+        databases: ["MySql", "sqlite", "mongo", "influxdb", "Graphql"],
         os: ["Linux", "Windows"],
-        others: ["Git", "Jira", "Space"],
+        others: ["Git", "Jira", "Trello", "Space"],
         misc: ["Firebase", "Socket.IO", "selenium", "MQTT", "Package Development"],
         hobbies: ["Cricket", "Singing"]
     },
