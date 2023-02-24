@@ -1,6 +1,6 @@
 <h2>Hi, I'm Salman Zafar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em> Senior Software Engineer at <a href="https://www.publicis.com/">Publicis</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em> Senior Software Engineer at <a href="https://www.publiciscommerce.com/">Publicis Media</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/salmanzafar949?style=social)
@@ -13,16 +13,17 @@
 ```javascript
 const salman = {
     pronouns: "He" | "Him",
-    code: ["php", "python", "javascript"],
+    code: ["Node JS", "php", "python", "javascript"],
     askMeAbout: ["web dev", "tech", "app dev", "database", "open source", "programming", "Restful Api"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vue"],
+            js: ["React"],
             css: ["bootstrap", "tailwind"]
         },
         backEnd: {
             php: ["Laravel"],
             python: ["Django"],
+            Node: ["Express js"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx", "Apache"],
         databases: ["MySql", "sqlite", "mongodb", "influxdb", "Graphql"],
@@ -32,7 +33,7 @@ const salman = {
         hobbies: ["Cricket", "Singing"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Microservices", "Rest Api"],
-    currentProject: "I am working on two projects IOT and Ecommerce",
+    currentProject: "I am working on a HR CRM project",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
