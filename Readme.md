@@ -22,7 +22,7 @@ const salman = {
         },
         backEnd: {
             php: ["Laravel"],
-            python: ["Django"],
+            python: ["Fast API"],
             Node: ["Express js"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx", "Apache"],
