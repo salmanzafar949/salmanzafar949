@@ -49,7 +49,7 @@ than research.
 
 ## 📊 GitHub Stats
 ![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanzafar949&show_icons=true&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanzafar949&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanzafar949&layout=compact&hide_border=true&hide=php)
 
 ---
 
